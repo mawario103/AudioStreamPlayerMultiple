@@ -32,7 +32,7 @@
 
 ## clear()
 ### Restore the list to its original state
-
-
-
+ 
+ 
+ 
 Sorry, this text has been translated from Japanese using a translator, and may be difficult to read.
