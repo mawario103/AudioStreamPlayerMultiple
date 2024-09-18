@@ -13,7 +13,7 @@
 ### /!\ To duplicate the sound, an AudioStreamPlayer is added as a child node to this node each time a sound is played,
 ### It is not recommended to use music or sounds that need to loop, as it is designed to be deleted after playback is finished.
 
-# Functon
+# Function
 
 ## play(id)
 ### Play sound unless properties for the specified ID are missing
